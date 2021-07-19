@@ -1,3 +1,5 @@
+<img src="./figure.png" width="500px"></img>
+
 ## Triangle Multiplicative Module - Pytorch
 
 Implementation of the Triangle Multiplicative module, used in <a href="https://github.com/deepmind/alphafold"> Alphafold2</a> as an efficient way to mix rows or columns of a 2d feature map, as a standalone package for Pytorch
