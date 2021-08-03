@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
   name = 'triangle-multiplicative-module',
   packages = find_packages(),
-  version = '0.0.2',
+  version = '0.0.3',
   license='MIT',
   description = 'Triangle Multiplicative Module',
   author = 'Phil Wang',
